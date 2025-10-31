@@ -1,4 +1,4 @@
-# 🚗 Vehicle Image Classification (Transfer Learning with ResNet50)
+# 🚗 Vehicle Image Classification (CNN y Transfer Learning con ResNet50)
 
 Este proyecto aplica técnicas de **aprendizaje profundo supervisado** para la **clasificación multiclase de vehículos** a partir de imágenes.  
 El objetivo principal es comparar el rendimiento de un modelo base de **Red Neuronal Convolucional (CNN)** entrenado desde cero con una red preentrenada **ResNet50**, aplicando **Transfer Learning** para mejorar la precisión del modelo y reducir el tiempo de entrenamiento.
