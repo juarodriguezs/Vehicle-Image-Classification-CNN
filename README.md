@@ -7,7 +7,7 @@ El objetivo principal es comparar el rendimiento de un modelo base de **Red Neur
 
 ## 📘 Descripción general
 
-El análisis se basa en el dataset **["5 Vehicles for Multi-category Classification"](https://www.kaggle.com/datasets/mrtontrnok/5-vehichles-for-multicategory-classification)**, disponible en *Kaggle*.  
+El análisis se basa en el dataset **["5 vehichles for classification"](https://www.kaggle.com/datasets/mrtontrnok/5-vehichles-for-multicategory-classification)**, disponible en *Kaggle*.  
 El conjunto de datos contiene imágenes de **cinco tipos de vehículos**: buses (bus), carros (car), motocicletas (motorcycle), trenes (train) y camiones (truck).  
 
 El proceso de desarrollo se centra en la **comparación de desempeño entre dos enfoques**:
